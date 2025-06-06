@@ -14,7 +14,6 @@ I am a Full Stack Web Developer based in Tucumán, Argentina, with a background 
 
 - 📫 Reach out to me at: <a href="adrian.chanampa.diaz@gmail.com">adrian.karma.chan@gmail.com</a>
 
-
 <br></br>
 
 ## My Skills Include
@@ -53,3 +52,20 @@ I am a Full Stack Web Developer based in Tucumán, Argentina, with a background 
 <span>  
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">  
 </span>
+
+<br></br>
+
+## Connect with Me
+
+
+<p align="center">
+  <a href="https://linkedin.com/in/adrian-chanampa-diaz"><img alt="Linkedin" title="Adrian Chanampa Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/AdrianKarma"><img alt="Github" title="Adrian Chanampa Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
+  <a href="mailto:adrian.chanampa.diaz@gmail.com"><img alt="Gmail" title="Adrian Chanampa Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+ </p>
+ 
+ <p align="center"> 
+ <a href="https://facebook.com/adrian.sideboard"><img alt="Facebook" title="Adrian Chanampa FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://instagram.com/adrian.karma.chan"><img alt="Instagram" title="Adrian Chanampa Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+    
