@@ -4,13 +4,13 @@
 
 <h2>About me</h2>
 
-I am a Full Stack Web Developer based in Tucumán, Argentina, with a background as a Técnico Superior en Programación from UTN. I have experience working with Node.js, Express, React.js, HTML, CSS, Bootstrap, and Sequelize. I enjoy building solid, responsive, and maintainable web applications.
+I'm a Full Stack Web Developer based in Tucumán, Argentina. I hold a degree as Técnico Superior en Programación from UTN. I have experience working with Node.js, Express, React.js, HTML, CSS, Bootstrap, and Sequelize. I enjoy building solid, responsive, and maintainable web applications.
 * **I’m interested in backend development, web design, and building intuitive user experiences.**
 - 🌱 I’m currently learning ...
   -  Node.js patterns and improving my React.js skills
   
 - 🛠 I’m working on personal projects and open to freelance opportunities.
-- ✔ Ask me about web development—I'll be happy to help if it's in my domain! 😉
+- ✔  Feel free to ask me anything about web development—I'll gladly help if it's within my field 😉
 
 - 📫 Reach out to me at: <a href="adrian.chanampa.diaz@gmail.com">adrian.karma.chan@gmail.com</a>
 
